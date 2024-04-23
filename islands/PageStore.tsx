@@ -7,3 +7,4 @@ const PageStore: FunctionComponent = () => {
   const barMenu = useSignal<MenuBar>;
   return <div></div>;
 };
+export default PageStore;
