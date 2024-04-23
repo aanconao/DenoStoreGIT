@@ -8,7 +8,7 @@ type BarMenuProps = {
 
 const MenuBarComponent: FunctionComponent<BarMenuProps> = ({ BarMenu }) => {
   return (
-    <div>
+    <div class="menu">
       <div
         onClick={() => {
           BarMenu.value == MenuBar.ABOUT_US;
