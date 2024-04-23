@@ -14,7 +14,7 @@ const MenuBarComponent: FunctionComponent<BarMenuProps> = ({ BarMenu }) => {
           BarMenu.value == MenuBar.ABOUT_US;
         }}
       >
-        ABOut_US
+        ABOUT_US
       </div>
     </div>
   );
