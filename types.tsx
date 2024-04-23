@@ -3,6 +3,7 @@ export enum MenuBar {
   STORE = "Store",
   CONTACT_US = "Contact us",
   SHOPPING_CART = "Cart",
+  TYPES = "Types",
 }
 
 export type AboutUs = {
