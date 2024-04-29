@@ -14,7 +14,7 @@ const MenuBarComponent: FunctionComponent<BarMenuProps> = ({ BarMenu }) => {
           BarMenu.value == MenuBar.ABOUT_US;
         }}
       >
-        ABOUT US
+        ABOUT US TEST
       </div>
       <div
         onClick={() => {
